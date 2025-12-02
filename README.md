@@ -1,5 +1,3 @@
-# Deep
-I love you riddhi
 <!DOCTYPE html>
 <html lang="en">
 <head>
